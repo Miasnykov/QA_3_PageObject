@@ -1,0 +1,6 @@
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\IhorMiasnykov_WDtest\WDtest\bin\Debug\IhorMiasnykov_WDtest.dll
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\IhorMiasnykov_WDtest\WDtest\bin\Debug\IhorMiasnykov_WDtest.pdb
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\IhorMiasnykov_WDtest\WDtest\bin\Debug\nunit.framework.dll
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\IhorMiasnykov_WDtest\WDtest\bin\Debug\nunit.framework.xml
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\IhorMiasnykov_WDtest\WDtest\obj\Debug\IhorMiasnykov_WDtest.dll
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\IhorMiasnykov_WDtest\WDtest\obj\Debug\IhorMiasnykov_WDtest.pdb

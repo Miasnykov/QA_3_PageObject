@@ -1,0 +1,7 @@
+c:\users\игорь\documents\visual studio 2015\Projects\WDtest\WDtest\bin\Debug\WDtest.dll
+c:\users\игорь\documents\visual studio 2015\Projects\WDtest\WDtest\bin\Debug\WDtest.pdb
+c:\users\игорь\documents\visual studio 2015\Projects\WDtest\WDtest\bin\Debug\nunit.framework.dll
+c:\users\игорь\documents\visual studio 2015\Projects\WDtest\WDtest\bin\Debug\nunit.framework.xml
+c:\users\игорь\documents\visual studio 2015\Projects\WDtest\WDtest\obj\Debug\WDtest.dll
+c:\users\игорь\documents\visual studio 2015\Projects\WDtest\WDtest\obj\Debug\WDtest.pdb
+c:\users\игорь\documents\visual studio 2015\Projects\WDtest\WDtest\obj\Debug\WDtest.csprojResolveAssemblyReference.cache
